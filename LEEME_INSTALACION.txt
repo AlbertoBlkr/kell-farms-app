@@ -1,0 +1,10 @@
+KELL FARMS V55 - PRUEBA EN IPHONE (NO PRODUCCION)
+
+1. Publicar TODOS los archivos de esta carpeta en una misma ruta HTTPS, por ejemplo GitHub Pages o Netlify. No abrir index.html desde Archivos: así no se instala correctamente el modo offline.
+2. En el iPhone, abrir esa URL con Safari, esperar a que cargue, tocar Compartir > Añadir a pantalla de inicio > Añadir.
+3. Abrir Kell Farms desde el icono de inicio, NO desde el enlace del ZIP.
+4. Registrar UNICAMENTE datos ficticios de prueba. Cerrar y abrir; activar modo avión y abrir de nuevo; comprobar persistencia.
+5. Probar exportar respaldo completo y guardar en Archivos. Restaurarlo solo en una instalacion de prueba.
+6. Para la Mac, abrir la misma URL en Safari y usar Archivo > Añadir al Dock (macOS compatible). NO registrar cambios simultaneos en Mac y iPhone: no hay sincronizacion.
+
+AVISO: no hay VoBo tecnico integral ni prueba Safari real. No usar para operacion real sin respaldo y validacion.
